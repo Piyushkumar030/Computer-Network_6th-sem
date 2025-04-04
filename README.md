@@ -28,9 +28,20 @@ Use GCC to compile any C program:
 ```bash
 gcc filename.c -o output
 ```
+or 
+
+```bash
+gcc filename.c
+```
 
 ### 🔹 Run the Program  
-Execute the compiled file:  
+Execute the compiled file, after compilation:  
+
+```bash
+./a.out
+```
+or 
+
 ```bash
 ./output
 ```
